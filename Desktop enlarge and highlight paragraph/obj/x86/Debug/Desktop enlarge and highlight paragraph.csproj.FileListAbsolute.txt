@@ -1,0 +1,27 @@
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.exe.config
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\mycursor.cur
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\myco.ini
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.exe
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.pdb
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.Form1.resources
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.FormConfig.resources
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.Properties.Resources.resources
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop enlarge and highlight paragraph.csproj.GenerateResource.Cache
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.exe
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.pdb
+E:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop enlarge and highlight paragraph.csprojResolveAssemblyReference.cache
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.exe.config
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.exe
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.pdb
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\mycursor.cur
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\myco.ini
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.exe
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.pdb
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop enlarge and highlight paragraph.csprojResolveAssemblyReference.cache
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.Form1.resources
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.FormConfig.resources
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop_enlarge_and_highlight_paragraph.Properties.Resources.resources
+D:\projets ramzi\Ramzi_projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\Desktop enlarge and highlight paragraph.csproj.GenerateResource.Cache
+H:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\bin\x86\Debug\DPara.exe.config
+H:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.exe
+H:\Ramzi projects\Desktop enlarge and highlight paragraph\Desktop enlarge and highlight paragraph\obj\x86\Debug\DPara.pdb
